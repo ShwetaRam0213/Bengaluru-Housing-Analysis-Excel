@@ -32,9 +32,9 @@ This project analyzes housing data from Bangalore to identify price trends based
 
 ![Location](price-location.png)
 
-![BHK](BHK price.png)
+![BHK](BHK-price.png)
 
-![Availability](availability type.png)
+![Availability](availability-type.png)
 
 ---
 
